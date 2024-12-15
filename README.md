@@ -1,2 +1,2 @@
 # Chatbypasser Script (PATCHED)
-enjoy ;)
+patched
